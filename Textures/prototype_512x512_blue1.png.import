@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/prototype_512x512_blue1.png-117d680784f809c22fe3502217da9d95.image"
+
+[deps]
+
+source_file="res://Textures/prototype_512x512_blue1.png"
+dest_files=[ "res://.import/prototype_512x512_blue1.png-117d680784f809c22fe3502217da9d95.image" ]
+
+[params]
+
